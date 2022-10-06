@@ -101,4 +101,4 @@ OUTPUT:
 ![output](/outpout1.png)
 ![output](/outpout1.png)
 RESULT:
-Thus the linear search and binary search algorithm is implemented using python programming.
+Thus the linear search and binary search algorithm is implemented using python programming. 
