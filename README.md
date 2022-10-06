@@ -85,8 +85,7 @@ if result>=0:
 else:
     print("Element not found")
 ```
-## SAMPLE INPUT AND OUTPUT:
-![input](/inputo1.png)
+## OUTPUT:
 ![output](/outpout1.png)
 ![output](/outpout1.png)
 ![output](/outpout1.png)
